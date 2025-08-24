@@ -1,7 +1,7 @@
 # Swiggy Case Study (SQL)
 
 ## Objective
-Analyze customer behavior, restaurant performance, and revenue growth to inform data-driven decisions.
+To analyze customer behavior, restaurant performance, and revenue growth using SQL queries on a mock Swiggy dataset.
 
 ## Dataset
 Three tables:
