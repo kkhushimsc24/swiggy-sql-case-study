@@ -1,0 +1,21 @@
+restaurant_id,name,cuisine,city
+1,Restaurant_1,Italian,Delhi
+2,Restaurant_2,Fast Food,Bangalore
+3,Restaurant_3,Indian,Mumbai
+4,Restaurant_4,Indian,Bangalore
+5,Restaurant_5,Italian,Bangalore
+6,Restaurant_6,Italian,Bangalore
+7,Restaurant_7,Chinese,Bangalore
+8,Restaurant_8,Indian,Delhi
+9,Restaurant_9,Chinese,Mumbai
+10,Restaurant_10,Indian,Delhi
+11,Restaurant_11,Indian,Mumbai
+12,Restaurant_12,Italian,Mumbai
+13,Restaurant_13,Italian,Delhi
+14,Restaurant_14,Italian,Mumbai
+15,Restaurant_15,Chinese,Bangalore
+16,Restaurant_16,Italian,Bangalore
+17,Restaurant_17,Indian,Bangalore
+18,Restaurant_18,Chinese,Bangalore
+19,Restaurant_19,Chinese,Delhi
+20,Restaurant_20,Fast Food,Mumbai
